@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="full_name">Tieu Phuong</string>
+    <string name="job_title">Android Developer Extraordinaire</string>
+    <string name="telephone">+11 (123) 444 555 666</string>
+    <string name="social_handle">\@AndroidDev</string>
+    <string name="email">tiuphun@android.com</string>
+</resources>
